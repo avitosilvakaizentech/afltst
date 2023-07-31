@@ -1,0 +1,16 @@
+{
+  "name": "afltst",
+  "version": "1.0.0",
+  "description": "automatizacao dos testes regressivos AFL",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "afltst"
+  },
+  "author": "Kaizen Tech - S.T.I",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
