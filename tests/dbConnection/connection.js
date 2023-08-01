@@ -1,8 +1,8 @@
 module.exports = {
-    user: '' ,  
-    password: '',   
+    user: 'kt0023' ,  
+    password: 'Gom56919',   
     server: 'KTMESDB01', 
-    database: '',
+    database: 'MES_AFLTST22',
     options: {
         trustedConnection: true,
         encrypt: true,
